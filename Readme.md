@@ -1,10 +1,13 @@
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+
+<p align="left">My name is Hardik and I'm a student from Rajkot</p>
+
 <div align="center">
   <img height="300" src="luffy.gif"/>
 </div>
-<p align="left">My name is Hardik and I'm a student from Rajkot</p>
 
 ###
 
