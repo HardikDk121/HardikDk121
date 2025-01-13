@@ -5,9 +5,7 @@
 
 <p align="left">My name is Hardik and I'm a student from Rajkot</p>
 
-<div align="center">
-  <img height="300" src="luffy.gif"/>
-</div>
+
 
 ###
 
@@ -18,6 +16,9 @@
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning DSA<br>🎯 Goals: become 10x dev and make cool stuff</p>
 
 ###
+<div align="center">
+  <img height="300" src="luffy.gif"/>
+</div>
 
 <h2 align="left">I code with</h2>
 
